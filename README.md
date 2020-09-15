@@ -1,2 +1,2 @@
-# Linear-Perceptron
-Machine learning Linear Perceptron Implementation
+# K-Nearest-Neighbors
+Machine Learning K-Nearest-Neighbors-Classifier Implementation
